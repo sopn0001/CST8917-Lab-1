@@ -1,5 +1,33 @@
-# Demo Video
+# Lab 1: Create and Deploy Your First Azure Function
 
-Replace the URL below with your YouTube demo link before submitting to Brightspace.
+## CST8917 - Serverless Applications | Summer 2026
 
-**YouTube URL:** https://youtu.be/YOUR_VIDEO_ID_HERE
+**Student Name**: IDRIS JOVIAL SOP NWABO
+
+**Student ID**: 041199877
+
+**Semester**: Winter 2026
+
+
+---
+
+## Demo Video
+
+🎥 [Watch Demo Video]()
+
+---
+
+## Technical Explanations
+
+
+
+---
+
+## Challenges and Learnings (Optional)
+
+
+---
+
+## Acknowledgments
+
+[Optional: Credit any resources, documentation, or people who helped you]
